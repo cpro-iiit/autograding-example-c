@@ -18,7 +18,7 @@ make test
 
 3. commit your changes to the GitHub repo by running
   ```sh
-   git add -A
+   git add hello.c
    git commit -m "<commit message>"
    git push origin main
   ```
