@@ -20,7 +20,7 @@ make test
   ```sh
    git add hello.c
    git commit -m "<commit message>"
-   git push origin main
+   git push origin master
   ```
     
 4. For seeing the logs/cmd line output of auto-grading:   
